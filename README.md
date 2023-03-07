@@ -9,4 +9,4 @@ and with any appropriate existing options of RangeShifter.
 
 Users are strongly advised to familiarise themselves with RangeShifter and to undertake its tutorials before attempting to use RS_CONTAIN.
 
-THIS REPOSITORY IS CURRENTLY UNDER DEVELOPMENT, AND IS EXPECTED TO BE COMPLETED BY THE END OF MARCH 2023
+RS_CONTAIN comprises two executable files, a user manual and documentation for running batchmode simulations. The manual describes only the new features of the software. For all other information, please refer to the RangeShifter v2.0 user manual. 
